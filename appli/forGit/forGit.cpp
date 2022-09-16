@@ -7,4 +7,5 @@ int main()
 	float b = 2.3;
 	cout << "result is" << endl;
 	cout << a + b << endl;
+	cout << "it is a result";
 }
