@@ -1,1 +1,1 @@
-# Lab_1.2
+# repository of Marim Dzholdoshova Pij-b-o-21-1
