@@ -10,4 +10,5 @@ int main()
 	cout << "it is a result";
 	cout << 10 + 1<<endl;
 	cout << 21 + 3<<endl;
+	cout << "it is a result";
 }
