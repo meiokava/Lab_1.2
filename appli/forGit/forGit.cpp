@@ -12,4 +12,5 @@ int main()
 	cout << 21 + 3 << endl;
 	cout << "it is a result";
 	cout << "it is a result";
+	cout << "it is rainy day";
 }
