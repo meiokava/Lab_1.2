@@ -8,4 +8,5 @@ int main()
 	cout << "result is" << endl;
 	cout << a + b << endl;
 	cout << "it is a result";
+	cout << 10 + 1;
 }
