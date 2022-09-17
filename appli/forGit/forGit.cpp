@@ -13,4 +13,5 @@ int main()
 	cout << "it is a result";
 	cout << "it is a result";
 	cout << "it is rainy day";
+	cout << "it is rainy day";
 }
